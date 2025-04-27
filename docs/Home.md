@@ -1,7 +1,11 @@
 # Developer Relations in the Age of AI
 
-# Questions
+# Intro 
 
+
+What does developer relations look like in the age of AI?  
+
+# Questions
 
 ## AI Assisted Coding
 
