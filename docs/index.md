@@ -1,6 +1,5 @@
 # Developer Relations in the Age of AI
 
-  
 
 # Questions
 
@@ -39,10 +38,11 @@
 ## Events
 
 * How are T&E and Sponsorship budgets looking post-pandemic, post zero-interest rates? 
-# Acquisition
+
+## Acquisition
  
 - Where are developers now discovering tools and APIs if not through traditional search?
   
-# Measurement
+## Measurement
 
 - How should devrel metrics change knowing that new SDK releases might not see immediate adoption?
