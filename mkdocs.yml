@@ -1,1 +1,15 @@
-site_name: My Docs
+site_name: devrel.ai 
+theme:
+  name: material 
+
+# Add custom CSS
+extra_css:
+  - css/clean.css
+
+# Customizing navigation
+nav:
+  - Home: index.md
+
+# Site metadata
+site_description: devrel.ai - Developer Relations in the Age of AI
+site_author: Greg Baugues
