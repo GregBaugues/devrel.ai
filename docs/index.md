@@ -11,9 +11,11 @@ When I joined Twilio's Developer Evangelism team in 2014, our devrel playbook wa
 
 The devrel playbook from 2014 doesn't work anymore. 
 
-AI is changing how developers write code, which will have a profound impact on how  devtool companies reach and serve developers. 
+AI is changing how developers write code, which has a profound impact on how devtool companies reach and serve developers. 
 
-Since I left Twilio in 2023, I've been building a bunch with AI, and advising AI companies on devrel. This is an attempt to document what effective devrel might look like in the age of AI. I don't pretend to have all the answers, but I have lots of questions and some smart friends. 
+Since I left Twilio in 2023, I've been building a bunch with AI and advising AI companies on devrel. This is an attempt to document what effective devrel looks like in the age of AI. 
+
+I don't have all the answers, but I have lots of questions and some smart friends. 
 
 # Developer Relations in the Age of AI 
 
@@ -53,23 +55,21 @@ I conceptualized this as "content a developer reads with an IDE open" and "conte
   
 * For sake of argument: "search is dead, de-prioritize the blog," BUT you still need content to get included in the training data. The more content in the training data, the more likely the LLM is to suggest your tool. (Is this actually true, or does RLHF and fine-tuning counteract this?) 
   
-* If that is true, are you incentivized to fill the internet with LLM generated technical slop to feed the training data? Feels like SEO in 2002. How do model providers curate training data to avoid this race to the bottom? 
+* If that is true, are you incentivized to fill the internet with LLM generated technical slop to feed the training data? Feels like SEO in 2002. How do model providers curate training data to avoid this race to the bottom? Will slop fatigue make all corporate blogs feel gross because we know they're all at least partially AI generated? 
 
-* Are we all going to develop slop fatigue that makes a corporate blogs feel kind of gross, because we all know that that content is at least partially AI generated? 
-
-* Do you now bifurcate your content strategy to "for humans to read" and "for AI to read?" 
+* Do you now bifurcate your content strategy to "for humans" and "for agents"? 
   
-* Whatever your strategy to get your code into the training data, the feedback loop is long. As of April 2025, o4-mini has a knowledge cutoff of June 2024 -- an 11 month lag. How will you know if your train-the-models strategy is working? 
+* As of April 2025, o4-mini has a knowledge cutoff of June 2024 -- an 11 month lag. How will you know if your strategy to get your content into the training data is working? 
 
-* Will there be an Google AdWords equivalent for LLMs where (devtool) companies pay for preferential treatment? For a "small fee", will OpenAI let you be a "verified source" of training data, so that Twilio is recommended first when a developer asks how to send an sms in ruby? 
+* Will there be a Google AdWords equivalent for LLMs where companies pay for preferential treatment? Will OpenAI charge you to be a "verified source" of training data, so that, eg, Twilio is recommended first when a developer asks how to send an sms in ruby? 
 
-* Is your blog still the right place to publish code? Should you shift your content mix to be more open source repos on github? 
+* Is your blog still the right place to publish code? Should your content portfolio prioritize high-quality public GitHub repos? 
 
-* Do humans still need copy-pastable code from your blog, or is high-level content more valuable: systems and architecture guidance rather than implementation details?
+* Do humans still need copy-pastable code from your blog? Is high-level content more valuable: systems and architecture guidance rather than implementation details?
 
-* Where are developers now discovering tools and APIs if not through traditional search?
+* If search *is* dead, where do developers now discover new tools? 
 
-* Does YouTube become a more important developer acquisition channel, since the bar for shipping content is higher, leading to less slop, and it offers connection with a real human? 
+* Does YouTube become a more tool important for developer acquisition and engagement? 
   
 ## Events
 
