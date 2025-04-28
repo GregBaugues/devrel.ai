@@ -1,4 +1,4 @@
-# The Old DevRel playbook
+# The Old DevRel Playbook
 
 Twilio was one of the first companies to focus on developer relations as the foundation of its go-to-market strategy. 
 
@@ -45,7 +45,7 @@ I don't have all the answers, but I have lots of questions and some smart friend
   
 * Is it a failure case to have a developer look at documentation at all?
 
-## Technical Content / Blogs
+## Developer Content
 
 At Twilio, we wrote different pieces of content to target Organic traffic vs. Social traffic. A post called "How to Send SMS with Python" performs well in Google, whereas "How I taught my dog to text selfies" performs well on Hacker News. The former drives signups, the latter drives awareness. 
 
@@ -55,10 +55,8 @@ I conceptualized this as "content a developer reads with an IDE open" and "conte
   
 * For sake of argument: "search is dead, de-prioritize the blog," BUT you still need content to get included in the training data. The more content in the training data, the more likely the LLM is to suggest your tool. (Is this actually true, or does RLHF and fine-tuning counteract this?) 
   
-* If that is true, are you incentivized to fill the internet with LLM generated technical slop to feed the training data? Feels like SEO in 2002. How do model providers curate training data to avoid this race to the bottom? Will slop fatigue make all corporate blogs feel gross because we know they're all at least partially AI generated? 
+* If that is true, are you incentivized to fill the internet with LLM generated slop to feed the training data? Feels like SEO in 2002. How do model providers curate training data to avoid this race to the bottom? Will slop fatigue make all corporate blogs feel gross because we know they're all at least partially AI generated? 
 
-* Do you now bifurcate your content strategy to "for humans" and "for agents"? 
-  
 * As of April 2025, o4-mini has a knowledge cutoff of June 2024 -- an 11 month lag. How will you know if your strategy to get your content into the training data is working? 
 
 * Will there be a Google AdWords equivalent for LLMs where companies pay for preferential treatment? Will OpenAI charge you to be a "verified source" of training data, so that, eg, Twilio is recommended first when a developer asks how to send an sms in ruby? 
@@ -67,23 +65,25 @@ I conceptualized this as "content a developer reads with an IDE open" and "conte
 
 * Do humans still need copy-pastable code from your blog? Is high-level content more valuable: systems and architecture guidance rather than implementation details?
 
+* Do you now bifurcate your content strategy to "for humans" and "for agents"? 
+
 * If search *is* dead, where do developers now discover new tools? 
 
-* Does YouTube become a more tool important for developer acquisition and engagement? 
+* Does YouTube become a more tool important for developer acquisition and engagement? Higher bar to ship content means less slop. Actually connecting with a human. 
   
-## Events
+## Developer Events
 
 Perhaps less AI specific, but the devrel ground game changed a lot during the pandemic and post-ZIRP. 
 
 * How are T&E and sponsorship budgets looking in 2025? 
 
-* It seems like AI caused a resurgence of events, especially in SF. What are the most successful formats? 
+* AI caused a resurgence of developer events, especially in SF. What are the most successful formats? 
 
 * Are hackathons more or less powerful in the era of vibecoding? 
   
-* Why get on a plane to speak to a breakout room of 60 devs or scan a few hundred badges in the booth when you can ship a YouTube video that gets watched by X0,000 viewers? How do you justify the benefits of IRL events that don't show up on a spreadsheet (and never have)? 
+* How do you justify the benefits of IRL events that don't show up on a spreadsheet? Why get on a plane to give a talk in a breakout room to a few dozen developers, or drop a $10,000 on a sponsorship to scan a hundred badges at the booth, when you can ship a YouTube video that gets watched by X0,000 viewers with a smaller investment? 
 
-## Demographics 
+## Developer Demographics 
 
 "A developer is someone who solves problems with code." - Ricky Robinett
 
@@ -97,4 +97,4 @@ Perhaps less AI specific, but the devrel ground game changed a lot during the pa
 
 This is an ongoing project by [Greg Baugues](about). The questions and thoughts here were cultivated through conversations with many friends, especially: Ricky Robinett, Andrew Baker, Matt Makai. 
 
-If you have thoughts on any of these, drop me an email at greg@baugues.com. 
+If you want to chat about this stuff, drop me an email at greg@baugues.com. 
