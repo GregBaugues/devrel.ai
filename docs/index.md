@@ -79,13 +79,11 @@ Perhaps less AI specific, but the devrel ground game changed a lot during the pa
 
 * How are T&E and sponsorship budgets looking in 2025? 
 
-* It does seem like AI caused a resurgence of IRL events, especially in SF. What are the most successful formats? 
+* It seems like AI caused a resurgence of events, especially in SF. What are the most successful formats? 
 
 * Are hackathons more or less powerful in the era of vibecoding? 
   
-* Why get on a plane to speak to a breakout room of 60 devs or scan a few hundred badges in the booth when you can ship a YouTube video that gets watched by X0,000 viewers? 
-  
-* How do you justify the benefits of IRL events that don't (and never have) show up on a spreadsheet? 
+* Why get on a plane to speak to a breakout room of 60 devs or scan a few hundred badges in the booth when you can ship a YouTube video that gets watched by X0,000 viewers? How do you justify the benefits of IRL events that don't show up on a spreadsheet (and never have)? 
 
 ## Demographics 
 
