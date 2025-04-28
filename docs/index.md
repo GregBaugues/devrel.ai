@@ -7,15 +7,15 @@ Twilio was one of the first companies to focus on developer relations as the fou
 When I joined Twilio's Developer Evangelism team in 2014, our devrel playbook was built on: 
 
 * *Magical developer experience*. Signup for an account and send your first SMS in five minutes. 
-* *Great docs*. Copy-pastable code (that *works*) that supports devs on their journey from quickstart, to production, to scale. 
+* *Great docs*. Copy-pastable code (that *works*) to support devs on their journey from quickstart, to production, to scale. 
 * *Technical blog content* to generate awareness and drive signups via organic and developer-social channels. 
-* *"Be everywhere and be awesome."* IRL events. Speaking at, sponsoring, hosting hundreds of meetups, conferences, hackathons every year. 
-
-AI is changing how developers write code, which will have a profound impact on how  devtool companies reach and serve developers. 
+* *"Be everywhere and be awesome."* IRL events. Speak at, sponsor, host hundreds of meetups, conferences, hackathons every year. 
 
 The devrel playbook from 2014 doesn't work anymore. 
 
-Since I left Twilio in 2023, I've been building a bunch with AI, and advising AI companies on devrel. This site is an attempt to document what effective devrel might look like in the age of AI. I won't pretend to have all the answers, but I have lots of questions and a few smart friends. 
+AI is changing how developers write code, which will have a profound impact on how  devtool companies reach and serve developers. 
+
+Since I left Twilio in 2023, I've been building a bunch with AI, and advising AI companies on devrel. This is an attempt to document what effective devrel might look like in the age of AI. I won't pretend to have all the answers, but I have lots of questions and some smart friends. 
 
 # Devrel in 2025 
 
