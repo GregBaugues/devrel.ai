@@ -15,7 +15,7 @@ AI is changing how developers write code, which will have a profound impact on h
 
 Since I left Twilio in 2023, I've been building a bunch with AI, and advising AI companies on devrel. This is an attempt to document what effective devrel might look like in the age of AI. I don't pretend to have all the answers, but I have lots of questions and some smart friends. 
 
-# Developer Relations in the age of AI 
+# Developer Relations in the Age of AI 
 
 ## Developer Experience 
 
