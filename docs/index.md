@@ -6,7 +6,7 @@ A bunch of questions and a few thoughts on how AI changes devrel playbooks.
 
 ## General Questions
 
-* How does AI change the devrel playbook from the 2010s? 
+How does AI change the devrel playbook from the 2010s? 
 
 ## AI Assisted Coding
 
