@@ -97,6 +97,6 @@ Perhaps less AI specific, but the devrel ground game changed a lot during the pa
   
 ## Acknowledgments 
 
-This is an ongoing project by Greg Baugues. The questions and thoughts here were cultivated through conversations with many friends, especially: Ricky Robinett, Andrew Baker, Matt Makai. 
+This is an ongoing project by [Greg Baugues](about). The questions and thoughts here were cultivated through conversations with many friends, especially: Ricky Robinett, Andrew Baker, Matt Makai. 
 
 If you have thoughts on any of these, drop me an email at greg@baugues.com. 
