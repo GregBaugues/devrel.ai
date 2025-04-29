@@ -15,21 +15,16 @@ I'll also ask Ricky if he wants to join.
 # What is devrel.ai? 
 
 To the extent that I have a plan for devrel.ai, it goes something like this: 
-* Poise of questions about where devrel is headed given AI 
-* Use it as fodder to talk shop with friends and smart people 
-* post the result of those conversations to devrel.ai in some capacity: 
-	* at minimum an article that distills and/or incorporates the things we talked about (with your attribution)
-	* maybe a cleaned up transcript of the conversation
-	* maybe post the recording to youtube? 
 
-Currently I'm primarily interested in 1 & 2. 
+1. Poise of questions about where devrel is headed given AI 
+2. Use it as fodder to talk shop with friends and smart people 
+3. Post the result of those conversations to devrel.ai in some capacity: 
 
-podcast/YT makes logical sense but I'm not sure juice is worth the squeeze for recorded zoom calls. 
+3 will be at minimum an article that distills and/or incorporates the things we talked about (with your attribution. Though I could see a cleaned up transcript, and **maybe** youtube? I dunno. It seems kind of dumb to have these conversations and *not* take the extra two steps to make it a podcast. 
 
-Aiming for high-signal to noise on devrel.ai. Thinking more "playbook" than "blog." 
+But at minimum I want a page at devrel.ai/docs that has some strong advice/opinions from Andrew Baker with some sprinkles of my own ideas. 
 
-But we'll see. 
-
+------
 
 # What should we talk about? 
 
