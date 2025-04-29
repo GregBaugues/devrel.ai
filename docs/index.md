@@ -7,16 +7,15 @@ When I joined Twilio's Developer Evangelism team in 2014, our devrel playbook wa
 * *Magical developer experience*. Signup for an account and send your first SMS with five lines of code within five minutes. 
 * *Great docs*. Copy-pastable code to support devs on their journey from quickstart, to production, to scale. 
 * *Technical content* to generate awareness and drive signups via organic and developer-social channels. 
-* *"Be everywhere and be awesome."* IRL events. Speak at, sponsor, host hundreds of meetups, conferences, hackathons every year. 
+* *"Be everywhere and be awesome."* IRL events. Speak at, sponsor, and host hundreds of meetups, conferences, hackathons every year. 
 
 The devrel playbook from 2014 doesn't work anymore. 
 
 AI is changing how developers write code, which changes how devtool companies reach and serve developers. 
 
-Since I left Twilio in 2023, I've been building with AI and advising AI companies on devrel. This site is my attempt to sketch out a playbook for effective devrel in the age of AI. 
+Since leaving Twilio in 2023, I've been building with AI and advising AI companies on devrel. This site is my attempt to sketch out a playbook for effective devrel in the age of AI. 
 
-I don't have all the answers, but I do have lots of questions and some smart friends. 
-
+Right now I have a lot more questions than answers. 
 # Developer Relations in the Age of AI 
 
 ## Developer Experience 
@@ -25,11 +24,11 @@ I don't have all the answers, but I do have lots of questions and some smart fri
 
 * Few things frustrate a developer more than copy-pasting code that doesn't work. At Twilio we meticulously made sure all the code on the docs and blog worked. LLMs produce, almost by definition, "average code." How can you improve the odds that code suggested by LLMs for your product actually works the first time? 
   
-* LLMs are trained on outdated versions of your docs and SDKs. Their knowledge cutoff is 12+ months in the past. There will always be more outdated code in the training data than up-to-date examples. How do you think about backwards compatibility and versioning? 
+* LLMs are trained on outdated versions of your docs and SDKs. There’s a ~12 month gap between the knowledge cutoff and the model shipping. There will always be more outdated code in the training data than up-to-date examples. How do you think about backwards compatibility and versioning? 
   
 * Developers are leaving the IDE less than they used to. What tasks do developers currently accomplish by visiting your console that they could solve in the IDE via an agent? (eg, change a webhook? generate a new API key and save it to .env?)
   
-* What's unlocked if a developer installs your MCP server into their IDE? For instance, can you ensure they’re always using your up to date docs? 
+* What capabilities unlock if a developer installs your MCP server into their IDE? 
 
 * Will MCP servers become the primary way a developer interfaces with your product? 
   
