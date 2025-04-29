@@ -1,4 +1,5 @@
 # The Old DevRel Playbook
+*Updated: 2025-04-29*
 
 Twilio was one of the first companies to focus on developer relations as the foundation of its go-to-market strategy. 
 
