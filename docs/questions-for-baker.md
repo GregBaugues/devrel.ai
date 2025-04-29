@@ -2,7 +2,7 @@
 
 **Updated: 2025-04-29 19:44**
 
-(this is a public but unlinked page)
+(this is a public but unlinked page. though the repo is public.)
 
 Hello sir! Stoked to chat next week about this stuff. 
 
