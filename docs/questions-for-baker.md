@@ -47,7 +47,7 @@ So here's how I'd propose structuring our conversation:
 
 ----
 
-## What's the old playbook for docs
+## What's the old playbook for docs?
 
 * What makes for great docs? 
 * What are some of the technical challenges of maintaining docs? 
