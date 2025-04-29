@@ -1,5 +1,7 @@
 ## Hello Andrew! 
 
+**Updated: 2025-04-29 19:44**
+
 (this is a public but unlinked page)
 
 Hello sir! Stoked to chat next week about this stuff. 
