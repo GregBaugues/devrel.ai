@@ -1,5 +1,7 @@
 ## Hello Andrew! 
 
+(this is a public but unlinked page)
+
 Hello sir! Stoked to chat next week about this stuff. 
 
 Broadly, I'd love to chat with you about docs + AI. 
