@@ -35,6 +35,8 @@ Right now I have a lot more questions than answers.
 * How do you help developers help LLMs to use your product? Prompts on your docs? .cursorrules and CLAUDE.md files in your repos? 
 
 * We used to assume that if we had the best DX and the best docs, once a developer integrated with Twilio we would be super sticky. Customers would be willing to pay a premium on usage because developer hours was their scarcest resource, so vendor swapping would be too costly. How much vendor lock-in is there if a refactor is a cmd-k away? 
+  
+* What does it mean that Cursor -- a devtool company -- is one of the fastest companies ever to $100M ARR, and has no formal marketing / devrel? 
 
 ## Docs 
 
