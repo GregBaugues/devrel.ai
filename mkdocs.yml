@@ -2,6 +2,8 @@ site_name: devrel.ai
 theme:
   name: material 
   custom_dir: overrides
+  analytics:
+    provider: custom
 
 # Add custom CSS
 extra_css:
