@@ -57,7 +57,7 @@ Focus on generating your docs from the "source of truth" — keep code and doc c
 
 Implement a deterministic automated pipeline to generate OpenAPI docs. Keep everything up-to-date, flat, and automatically available so an LLM or developer can consume it without your supervision. 
 
-Implement [[feedback mechanisms for your docs]]
+Implement feedback mechanisms. 
 
 
 ----
