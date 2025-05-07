@@ -1,0 +1,5 @@
+There is some artistry and a lot of thoughtfulness that can go into great documentation which really like conveys understanding for your audience in a way that I think, you know, can help them learn ancillary skills along the way.
+
+How many times have we seen a developer's first API that they ever use be the Twilio API? We weren't just teaching them how to send a text message, we were teaching them how to make an API call and what it means to put an API key into your environment and things like that.
+
+The empowering aspect of human consumed documentation is something I hope can get preserved somehow. But in terms of parsing through a dozen pages on some new website that I've never used before to understand what I need to do to make the right API call with the right parameters and what the response value is going to be that comes back, that was tedious, slow work.
