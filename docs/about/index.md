@@ -1,6 +1,6 @@
 # About DevRel.ai
 
-Hi! I'm Greg Baugues. 
+Hi! I'm [Greg Baugues](../people/greg-baugues). 
 
 I worked on Twilio's Developer Relations teams from 2014-2023. 
 
