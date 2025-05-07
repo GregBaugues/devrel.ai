@@ -6,7 +6,7 @@ title: AI Native Docs
 
 _Updated: 2025-05-07_
 
-This article is based off an [interview](andrew-baker-on-docs) with [Andrew Baker](../people/andrew-baker) and [Ricky Robinett](../people/ricky-robinett). 
+This article is based off an [interview](../interviews/andrew-baker-on-docs) with [Andrew Baker](../people/andrew-baker) and [Ricky Robinett](../people/ricky-robinett). 
 
 ---
 
