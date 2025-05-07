@@ -17,6 +17,7 @@ AI is changing how developers write code, which changes how devtool companies re
 Since leaving Twilio in 2023, I've been building with AI and advising AI companies on devrel. This site is my attempt to sketch out a playbook for effective devrel in the age of AI. 
 
 Right now I have a lot more questions than answers. 
+
 # Developer Relations in the Age of AI 
 
 ## Developer Experience 
@@ -39,7 +40,7 @@ Right now I have a lot more questions than answers.
   
 * What does it mean that Cursor -- a devtool company -- is one of the fastest companies ever to $100M ARR, and has no formal marketing / devrel? 
 
-## Docs 
+## [Docs](/docs)
 
 * Should your docs be [primarily markdown-based](https://x.com/karpathy/status/1914488029873627597)? 
 
