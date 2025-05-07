@@ -2,12 +2,15 @@ site_name: devrel.ai
 theme:
   name: material 
   custom_dir: overrides
-  analytics:
-    provider: custom
 
 # Add custom CSS
 extra_css:
   - css/styles.css
+
+# Analytics
+extra:
+  analytics:
+    provider: custom
 
 # Customizing navigation
 nav_style: light

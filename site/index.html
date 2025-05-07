@@ -6,13 +6,15 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
-        <meta name="description" content="devrel.ai - Developer Relations in the Age of AI">
+        <meta name="description" content="DevRel.ai - Developer Relations in the Age of AI">
       
       
         <meta name="author" content="Greg Baugues">
       
       
       
+      
+        <link rel="next" href="docs/">
       
       
       <link rel="icon" href="assets/images/favicon.png">
@@ -43,11 +45,20 @@
       
     
     
-      <link rel="stylesheet" href="css/clean.css">
+      <link rel="stylesheet" href="css/styles.css">
     
     <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
+  
+
+
+  <!-- 100% privacy-first analytics -->
+<script async src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+<noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerpolicy="no-referrer-when-downgrade" /></noscript>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
 
     
     
@@ -64,7 +75,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#developer-relations-in-the-age-of-ai" class="md-skip">
+        <a href="#the-old-devrel-playbook" class="md-skip">
           Skip to content
         </a>
       
@@ -228,7 +239,51 @@
   
   
     <li class="md-nav__item">
-      <a href="about.md" class="md-nav__link">
+      <a href="docs/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Docs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="people/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    People
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="about/" class="md-nav__link">
         
   
   
@@ -277,68 +332,130 @@
 
 
 
+<h1 id="the-old-devrel-playbook">The Old DevRel Playbook</h1>
+<p><em>Updated: 2025-04-29</em></p>
+<p>Twilio was one of the first companies to focus on developer relations as the foundation of its go-to-market strategy. </p>
+<p>When I joined Twilio's Developer Evangelism team in 2014, our devrel playbook was built on: </p>
+<ul>
+<li><em>Magical developer experience</em>. Signup for an account and send your first SMS with five lines of code within five minutes. </li>
+<li><em>Great docs</em>. Copy-pastable code to support devs on their journey from quickstart, to production, to scale. </li>
+<li><em>Technical content</em> to generate awareness and drive signups via organic and developer-social channels. </li>
+<li><em>"Be everywhere and be awesome."</em> IRL events. Speak at, sponsor, and host hundreds of meetups, conferences, hackathons every year. </li>
+</ul>
+<p>The devrel playbook from 2014 doesn't work anymore. </p>
+<p>AI is changing how developers write code, which changes how devtool companies reach and serve developers. </p>
+<p>Since leaving Twilio in 2023, I've been building with AI and advising AI companies on devrel. This site is my attempt to sketch out a playbook for effective devrel in the age of AI. </p>
+<p>Right now I have a lot more questions than answers. </p>
 <h1 id="developer-relations-in-the-age-of-ai">Developer Relations in the Age of AI</h1>
-<h1 id="questions">Questions</h1>
-<h2 id="ai-assisted-coding">AI Assisted Coding</h2>
+<h2 id="developer-experience">Developer Experience</h2>
 <ul>
 <li>
-<p>How do you build relationships with model providers to ensure your code and documentation are properly represented in training data?</p>
+<p>What does a magical developer experience look like with AI assistance? For example, could a developer signup for your product and get to hello world without leaving the IDE? </p>
 </li>
 <li>
-<p>Could API providers create special endpoints for LLM agents to use products unauthenticated for testing purposes?</p>
+<p>Few things frustrate a developer more than copy-pasting code that doesn't work. At Twilio we meticulously made sure all the code on the docs and blog worked. LLMs produce, almost by definition, "average code." How can you improve the odds that code suggested by LLMs for your product actually works the first time? </p>
 </li>
 <li>
-<p>How should backwards compatibility be prioritized now that LLMs may recommend older SDK versions they were trained on?</p>
+<p>LLMs are trained on outdated versions of your docs and SDKs. There’s a ~12 month gap between the knowledge cutoff and the model shipping. There will always be more outdated code in the training data than up-to-date examples. How do you think about backwards compatibility and versioning? </p>
 </li>
 <li>
-<p>How much does human developer experience matter now versus agentic developer experience?</p>
+<p>Developers are leaving the IDE less than they used to. What tasks do developers currently accomplish by visiting your console that they could solve in the IDE via an agent? (eg, change a webhook? generate a new API key and save it to .env?)</p>
 </li>
 <li>
-<p>As a thought experiment: do traditional DevRel techniques still hold if you assume AI agents are the customers now? (eg, write blog posts, but assume AI is reading them, not humans. "Be everywhere and be awesome," but be where the training data is being collected. ) </p>
+<p>What capabilities unlock if a developer installs your MCP server into their IDE? </p>
 </li>
 <li>
-<p>Will there be an equivalent to Google AdWords for LLMs where companies pay for preferential treatment?</p>
+<p>Will MCP servers become the primary way a developer interfaces with your product? </p>
 </li>
 <li>
-<p>How can you help developers understand the right prompts to give their IDE to integrate with your product? </p>
+<p>How do you help developers help LLMs to use your product? Prompts on your docs? .cursorrules and CLAUDE.md files in your repos? </p>
 </li>
 <li>
-<p>Can MCP servers become the primary interface between your product and developer tools?</p>
+<p>We used to assume that if we had the best DX and the best docs, once a developer integrated with Twilio we would be super sticky. Customers would be willing to pay a premium on usage because developer hours was their scarcest resource, so vendor swapping would be too costly. How much vendor lock-in is there if a refactor is a cmd-k away? </p>
+</li>
+<li>
+<p>What does it mean that Cursor -- a devtool company -- is one of the fastest companies ever to $100M ARR, and has no formal marketing / devrel? </p>
 </li>
 </ul>
-<h2 id="docs">Docs</h2>
+<h2 id="docs"><a href="/docs">Docs</a></h2>
 <ul>
 <li>
-<p>Should documentation be primarily markdown-based to be more easily consumed by LLMs?</p>
+<p>Should your docs be <a href="https://x.com/karpathy/status/1914488029873627597">primarily markdown-based</a>? </p>
 </li>
 <li>
-<p>Is it a failure case to have a developer look at documentation at all in an AI-first world?</p>
-</li>
-</ul>
-<h2 id="content">Content</h2>
-<ul>
-<li>
-<p>How will technical content marketing evolve when LLMs can generate code for any service?</p>
+<p>How do you structure docs to optimize for RAG over docs in the IDE? </p>
 </li>
 <li>
-<p>Should DevRel teams focus more on systems and architecture guidance rather than implementation details?</p>
+<p>Is it a failure case to have a developer look at documentation at all?</p>
+</li>
+</ul>
+<h2 id="developer-content">Developer Content</h2>
+<p>At Twilio, we wrote different content to target Organic traffic vs. Social traffic. A post called "How to Send SMS with Python" performs well in Google, whereas "How I taught my dog to text selfies" performs well on Hacker News. The former drives signups, the latter drives awareness. </p>
+<p>I conceptualize this split as "content a developer reads to solve a specific problem when they have an IDE open" and "content a developer reads on the toilet." </p>
+<ul>
+<li>
+<p>Re: "content a developer reads with an IDE open." Developers increasingly solve those problems with AI assistance, inside the IDE. Is there still value in shipping the "how to send sms in ruby" blog post? </p>
 </li>
 <li>
-<p>Is video content / YouTube becoming more important as a way to cut through AI-generated text content?</p>
+<p>For sake of argument: "search is dead, de-prioritize the blog," BUT you still need content to get indexed in the training data. The more content in the training data, the more likely the LLM is to suggest your tool. (Is this actually true, or does RLHF and fine-tuning counteract this?) </p>
+</li>
+<li>
+<p>If it is true, are you incentivized to fill the internet with LLM generated slop to feed the training data? Feels like SEO backlink spam in 2002. How do model providers curate training data to avoid this race to the bottom? </p>
+</li>
+<li>
+<p>o4-mini was launched in April 2025 and it’s knowledge cutoff is June 2025. That’s a long feedback cycle to find out if your strategy to get content into the training data is working. </p>
+</li>
+<li>
+<p>Will there be a Google AdWords equivalent for LLMs where companies pay for preferential treatment? Will OpenAI charge you to be a "verified source" of training data, so that, eg, Twilio is recommended first when a developer asks how to send an sms in ruby? </p>
+</li>
+<li>
+<p>Is your blog still the right place to publish code? Should your content portfolio prioritize high-quality public GitHub repos? </p>
+</li>
+<li>
+<p>Do humans still need copy-pastable code from your blog if the LLM is their first stop to solve code problems? Should you spend your time instead writing high-level content: systems and architecture guidance rather than implementation details?</p>
+</li>
+<li>
+<p>Do you now bifurcate your content strategy to "for humans" and "for agents"? </p>
+</li>
+<li>
+<p>If search <em>is</em> dead, where do developers now discover new tools? </p>
+</li>
+<li>
+<p>Does YouTube become a more tool important for developer acquisition and engagement? Higher bar to ship content means less slop. Actually connecting with a human. </p>
 </li>
 </ul>
-<h2 id="events">Events</h2>
+<h2 id="developer-events">Developer Events</h2>
+<p>Perhaps less AI specific, but the devrel ground game changed a lot during the pandemic and post-ZIRP. </p>
 <ul>
-<li>How are T&amp;E and Sponsorship budgets looking post-pandemic, post zero-interest rates? </li>
+<li>
+<p>How are T&amp;E and sponsorship budgets looking in 2025? </p>
+</li>
+<li>
+<p>AI caused a resurgence of developer events, especially in SF. What are the most successful formats? </p>
+</li>
+<li>
+<p>Are hackathons more or less powerful in the era of vibecoding? </p>
+</li>
+<li>
+<p>How do you justify the benefits of IRL events that don't show up on a spreadsheet? Why get on a plane to give a talk in a breakout room to a few dozen developers, or drop a $10,000 on a sponsorship to scan a hundred badges at the booth, when you can ship a YouTube video that gets watched by X0,000 viewers with a smaller investment? </p>
+</li>
 </ul>
-<h2 id="acquisition">Acquisition</h2>
+<h2 id="developer-demographics">Developer Demographics</h2>
+<p>"A developer is someone who solves problems with code." - Ricky Robinett</p>
 <ul>
-<li>Where are developers now discovering tools and APIs if not through traditional search?</li>
+<li>
+<p>A whole bunch of people who do not identify as a "developer" are now solving problems with code, thanks to vibe coding. Are you trying to reach, eg, the nurse that builds a schedule notification system for her floor? Should you? </p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=wMW7-yk296U&amp;t=2140s">70% of Mr. Beast's viewers don't speak English</a>. English has been the dominant language for technical documentation. How does inexpensive translation impact the growth of global developer populations? Should every devtool product now be global by default? Why don't you have docs in Portuguese? </p>
+</li>
+<li>
+<p>22 year old junior devs are more likely to be AI-native. They consume content via YouTube and TikTok. 40 year old senior devs are more AI-skeptical and consume longform text based content.  </p>
+</li>
 </ul>
-<h2 id="measurement">Measurement</h2>
-<ul>
-<li>How should devrel metrics change knowing that new SDK releases might not see immediate adoption?</li>
-</ul>
+<h2 id="acknowledgments">Acknowledgments</h2>
+<p>This is an ongoing project by <a href="DevRel.ai/Site%20Content/about/index.md">Greg Baugues</a>. The questions and thoughts here were cultivated through conversations with many friends, especially: Ricky Robinett, Andrew Baker, Matt Makai, Rob Spectre, Tilde Thurium. </p>
+<p>If you want to chat about this stuff, drop me an email at greg@baugues.com. </p>
 
 
 
@@ -347,6 +464,8 @@
 
 
 
+
+  
 
 
 
