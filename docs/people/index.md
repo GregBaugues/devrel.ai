@@ -1,6 +1,9 @@
 ---
 draft: "false"
 ---
-[[andrew-baker|Andrew Baker]]
+[Andrew Baker](andrew-baker)
 
-[[ricky-robinett|Ricky Robinett]]
+[Ricky Robinett](ricky-robinett)
+
+[Greg Baugues](greg-baugues)
+
