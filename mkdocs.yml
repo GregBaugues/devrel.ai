@@ -14,7 +14,7 @@ nav:
   - Home: index.md
   - Docs: docs/index.md
   - People: people/index.md
-  - About: about.md
+  - About: about/index.md
 
 # Site metadata
 site_description: DevRel.ai - Developer Relations in the Age of AI
