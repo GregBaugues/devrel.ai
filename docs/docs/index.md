@@ -2,9 +2,9 @@
 title: AI Native Docs
 ---
 
-# AI-Native Docs
+# AI Native Docs
 
-_Updated: 2025-05-07
+_Updated: 2025-05-07_
 
 This article is based off an [interview](andrew-baker-on-docs) with [Andrew Baker](../people/andrew-baker) and [Ricky Robinett](../people/ricky-robinett). 
 
