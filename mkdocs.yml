@@ -13,6 +13,7 @@ nav_style: light
 nav:
   - Home: index.md
   - Docs: docs/index.md
+  - People: people/index.md
   - About: about.md
 
 # Site metadata
