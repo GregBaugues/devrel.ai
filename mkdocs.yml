@@ -4,12 +4,17 @@ theme:
 
 # Add custom CSS
 extra_css:
-  - css/clean.css
+  - css/styles.css
 
 # Customizing navigation
+nav_style: light
+
+
 nav:
   - Home: index.md
+  - Docs: docs/index.md
+  - About: about.md
 
 # Site metadata
-site_description: devrel.ai - Developer Relations in the Age of AI
+site_description: DevRel.ai - Developer Relations in the Age of AI
 site_author: Greg Baugues
